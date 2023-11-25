@@ -1,0 +1,162 @@
+.den11{
+    padding-top: 20px;
+}
+
+.nav2 .ar{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.nav2 .home{
+    color: white;
+}
+
+.nav2 li{
+    padding: 3px;
+}
+
+.nav2 .red{
+    background-color: #ed1c24;
+}
+
+.navbar-toggler{
+    width: 100%;
+}
+
+.bars{
+    color:#ed1c24;
+    font-size: 40px;
+}
+
+
+.btnslide{
+    background-color: #ed1c24;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    color: white;
+}
+
+.p1{
+    padding: 50px;
+    padding-top: 100px;
+}
+
+.clax{
+    padding-top: 50px;
+}
+
+.clax2{
+    padding-top: 20px;
+    border-bottom: solid 1px black;
+}
+
+#abt{
+   color: orangered;
+   border-bottom: solid 1px black;
+   font-size: 45px; 
+}
+
+#abt1{
+    color: black;
+    font-size: 50px;
+}
+
+#btn11{
+    color: white;
+    background-color: orangered;
+    border: none;
+    height: 45px;
+    width: 140px;
+
+}
+
+.container{
+    margin-top: 25px;
+    padding-bottom: 20px;
+}
+
+#den1{
+    color: orangered;
+    border-bottom: 1px solid black; width: 200px;
+    font-size: 60px;
+    padding-top: 25px;
+}
+
+#den2{
+    color: black;
+}
+
+#p1{
+    text-align: center;
+    color: orangered;
+    font-weight: bold;
+}
+
+.breakfast{
+    border: 15px solid gray;
+
+}
+
+#og2{
+color: orangered;
+font-weight: bold;
+border-bottom: solid 2px black; width: 100px;
+margin: auto;
+margin-bottom: 20px;
+}
+
+#og3{
+    color: black;
+}
+
+.v1{
+    margin: auto;
+}
+
+#git1{
+    margin: auto;
+    font-weight:bold;
+    color: orangered;
+    border-bottom: solid 1px black; width: 100px;
+}
+
+#git2{
+    margin: auto;
+    color: black;
+}
+
+input{
+    border: solid 5px orangered;
+}
+
+.gallery_blog{
+    position: relative;
+    width: 100%;
+}
+
+.gallery_blog img{
+    width: 100%;
+    min-height: 295px;
+}
+
+
+
+.gallery_blog .overlay:hover{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(250,62,25,.7);
+}
+
+.gallery_blog h2{
+    color: #fff;
+    line-height: 287px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
